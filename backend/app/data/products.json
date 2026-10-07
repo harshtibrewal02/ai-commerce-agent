@@ -3,11 +3,11 @@
     "id": "prod_1",
     "name": "Sony WH-1000XM5 Wireless Headphones",
     "category": "Electronics",
-    "price": 398.00,
+    "price": 348.00,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=80",
-    "description": "Industry-leading active noise-canceling over-ear bluetooth headphones with 30-hour battery life, crisp microphone calls, and audiophile sound.",
-    "use_cases": ["travel", "work", "focus", "music", "commuting", "noise cancelation", "study", "flight"]
+    "description": "Industry-leading noise cancellation with 30-hour battery life, crystal-clear hands-free calls, and premium audiophile-grade sound. A worthy investment for daily commuters and frequent flyers.",
+    "use_cases": ["travel", "work", "focus", "music", "commuting", "noise cancelation", "flight"]
   },
   {
     "id": "prod_2",
@@ -16,17 +16,17 @@
     "price": 99.99,
     "rating": 4.9,
     "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&auto=format&fit=crop&q=80",
-    "description": "An iconic ergonomic wireless mouse with quiet clicks, electromagnetic MagSpeed scrolling, and 8K DPI track-on-glass sensor.",
+    "description": "Ergonomic wireless mouse with ultra-quiet clicks, MagSpeed scrolling at 1000 lines/sec, and 8K DPI sensor. Pays for itself in productivity gains within weeks.",
     "use_cases": ["office", "coding", "productivity", "ergonomics", "desk setup", "programming", "work"]
   },
   {
     "id": "prod_3",
-    "name": "Apple MacBook Air 15-inch M3",
+    "name": "Apple MacBook Air 15\" M3",
     "category": "Computers",
     "price": 1299.00,
     "rating": 4.9,
     "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&auto=format&fit=crop&q=80",
-    "description": "Ultra-thin aluminum laptop powered by Apple M3 chip, Liquid Retina display, 18-hour battery, and silent fanless design.",
+    "description": "Ultra-thin aluminum laptop with M3 chip, 18-hour battery, Liquid Retina display, and silent fanless design. A 5-7 year investment that holds resale value exceptionally well.",
     "use_cases": ["work", "college", "programming", "video editing", "travel", "student", "lightweight"]
   },
   {
@@ -36,47 +36,47 @@
     "price": 89.00,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=80",
-    "description": "75% compact wireless mechanical keyboard with hot-swappable tactile switches, RGB backlighting, and Mac/Windows layout toggle.",
+    "description": "75% compact mechanical keyboard with hot-swappable switches, RGB backlighting, and cross-platform layout. Best value mechanical keyboard under $100.",
     "use_cases": ["typing", "coding", "gaming", "desk setup", "mechanical keyboard", "office"]
   },
   {
     "id": "prod_5",
-    "name": "Dell UltraSharp 27 4K USB-C Hub Monitor",
+    "name": "Dell UltraSharp 27\" 4K USB-C Hub Monitor",
     "category": "Monitors",
     "price": 479.50,
     "rating": 4.6,
     "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=80",
-    "description": "27-inch 4K UHD IPS display with 90W USB-C power delivery hub, vibrant sRGB color accuracy, and low blue light filter.",
+    "description": "27-inch 4K UHD IPS display with 90W USB-C power delivery, factory-calibrated sRGB accuracy, and built-in KVM switch. Replaces a dock, charger, and monitor in one.",
     "use_cases": ["design", "office", "home office", "productivity", "dual monitor", "coding", "4k display"]
   },
   {
     "id": "prod_6",
-    "name": "Anker 737 Power Bank (PowerCore 24K)",
+    "name": "Anker 737 Power Bank (24,000mAh)",
     "category": "Accessories",
     "price": 109.99,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1609592424009-598912d09dfb?w=500&auto=format&fit=crop&q=80",
-    "description": "24,000mAh portable charger with 140W fast bi-directional charging output and real-time digital display status.",
+    "description": "24,000mAh portable charger with 140W bi-directional fast charging. Charges a MacBook Air to 50% in 30 minutes — essential insurance for travelers and remote workers.",
     "use_cases": ["travel", "emergency", "laptop charging", "flight", "outdoor", "phone charger", "battery"]
   },
   {
     "id": "prod_7",
-    "name": "Kindle Paperwhite Signature Edition (32GB)",
+    "name": "Kindle Paperwhite Signature (32GB)",
     "category": "Electronics",
     "price": 189.99,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500&auto=format&fit=crop&q=80",
-    "description": "6.8-inch glare-free e-ink reader with wireless charging, auto-adjusting front light, waterproof body, and weeks of battery life.",
+    "description": "6.8\" glare-free e-ink reader with wireless charging, auto-adjusting light, and waterproof body. At $0.50/book with Kindle Unlimited, it pays for itself in 3 months.",
     "use_cases": ["reading", "travel", "bedtime", "gifts", "books", "study"]
   },
   {
     "id": "prod_8",
-    "name": "Nespresso VertuoPlus Espresso & Coffee Machine",
+    "name": "Nespresso VertuoPlus Coffee Machine",
     "category": "Home & Kitchen",
     "price": 149.00,
     "rating": 4.5,
     "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500&auto=format&fit=crop&q=80",
-    "description": "Single-serve automatic coffee machine utilizing Centrifusion technology for rich barista crema coffee and espresso shots.",
+    "description": "One-touch barista-quality coffee and espresso using Centrifusion technology. Saves $4/day vs café visits — ROI in under 40 days.",
     "use_cases": ["morning coffee", "kitchen", "office breakroom", "gifts", "caffeine", "latte"]
   },
   {
@@ -86,17 +86,17 @@
     "price": 399.00,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&auto=format&fit=crop&q=80",
-    "description": "Advanced smartwatch featuring S9 SiP chip, Double Tap gesture, ECG monitor, heart rate tracking, crash detection, and fitness metrics.",
+    "description": "Advanced smartwatch with S9 chip, Double Tap gesture, ECG, blood oxygen monitoring, and crash detection. An investment in your health that could literally save your life.",
     "use_cases": ["fitness", "running", "health", "workout", "swimming", "smartwatch", "tracking"]
   },
   {
     "id": "prod_10",
-    "name": "Sony Alpha 7 IV Full-Frame Mirrorless Camera",
+    "name": "Sony Alpha 7 IV Full-Frame Camera",
     "category": "Cameras & Photography",
     "price": 2498.00,
     "rating": 4.9,
     "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=80",
-    "description": "33MP full-frame Exmor R CMOS sensor camera with 4K 60p video, real-time eye autofocus, and 10 fps continuous burst shooting.",
+    "description": "33MP full-frame sensor with 4K 60p video, real-time eye autofocus, and 10fps burst. A professional tool that can generate income through photography and videography.",
     "use_cases": ["photography", "vlogging", "video recording", "professional camera", "content creation", "travel"]
   },
   {
@@ -106,57 +106,137 @@
     "price": 149.00,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&auto=format&fit=crop&q=80",
-    "description": "Rugged waterproof outdoor bluetooth speaker with PositionIQ technology, deep bass, and 12-hour rechargeable battery.",
+    "description": "Rugged waterproof portable speaker with PositionIQ, deep bass, and 12-hour battery. Built to survive drops, dust, and water — adventure-proof audio.",
     "use_cases": ["outdoor", "party", "travel", "hiking", "beach", "bluetooth speaker", "music"]
   },
   {
     "id": "prod_12",
-    "name": "Philips Sonicare ProtectiveClean 6100 Electric Toothbrush",
+    "name": "Philips Sonicare 6100 Electric Toothbrush",
     "category": "Personal Care",
-    "price": 109.96,
+    "price": 49.96,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1559599101-f09722fb4948?w=500&auto=format&fit=crop&q=80",
-    "description": "Sonic electric toothbrush with pressure sensor, 3 cleaning modes, brush head replacement reminder, and travel case.",
+    "description": "Sonic toothbrush with pressure sensor and 3 modes. Dentists say it removes 7x more plaque than manual brushing — saves hundreds in dental bills long-term.",
     "use_cases": ["dental hygiene", "daily routine", "bathroom", "travel", "health"]
   },
   {
     "id": "prod_13",
-    "name": "BenQ ScreenBar Halo LED Monitor Light Bar",
+    "name": "BenQ ScreenBar Halo Monitor Light",
     "category": "Accessories",
     "price": 179.00,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&auto=format&fit=crop&q=80",
-    "description": "Automatic dimming monitor lamp with wireless controller, front & back lighting to eliminate screen glare and reduce eye strain.",
+    "description": "Auto-dimming monitor lamp with wireless controller, eliminating screen glare and eye strain. A small investment that protects your most valuable asset — your eyesight.",
     "use_cases": ["desk setup", "reading", "coding", "night work", "eye protection", "office"]
   },
   {
     "id": "prod_14",
-    "name": "Theragun Prime Electric Handheld Percussion Massage Gun",
+    "name": "Theragun Prime Massage Gun",
     "category": "Fitness & Wearables",
     "price": 299.00,
     "rating": 4.6,
     "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=500&auto=format&fit=crop&q=80",
-    "description": "Deep tissue muscle treatment massager with quiet force technology, ergonomic multi-grip, and Bluetooth app connectivity.",
+    "description": "Deep tissue percussion massager with quiet force technology and Bluetooth app connectivity. Replaces $80/session sports massage therapy — ROI after 4 uses.",
     "use_cases": ["recovery", "fitness", "muscle pain", "workout", "gym", "massage"]
   },
   {
     "id": "prod_15",
-    "name": "Samsung Galaxy Tab S9 Ultra 14.6-inch",
+    "name": "Samsung Galaxy Tab S9 Ultra 14.6\"",
     "category": "Computers",
     "price": 1199.99,
     "rating": 4.8,
     "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&auto=format&fit=crop&q=80",
-    "description": "Massive 14.6-inch Dynamic AMOLED 2X Android tablet with S Pen included, Snapdragon 8 Gen 2, IP68 water resistance.",
+    "description": "14.6\" Dynamic AMOLED 2X tablet with S Pen, Snapdragon 8 Gen 2, and IP68 water resistance. Replaces a laptop, sketchpad, and note-taking system in one device.",
     "use_cases": ["drawing", "note taking", "digital art", "college", "entertainment", "movies"]
   },
   {
     "id": "prod_16",
-    "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker",
+    "name": "Instant Pot Duo Plus 9-in-1 Cooker",
     "category": "Home & Kitchen",
-    "price": 129.95,
+    "price": 89.95,
     "rating": 4.7,
     "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=80",
-    "description": "6-quart multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and food warmer.",
+    "description": "6-quart multi-use pressure cooker that replaces 9 kitchen appliances. Saves $200+/month on takeout by making home cooking effortless — best ROI kitchen gadget.",
     "use_cases": ["cooking", "meal prep", "kitchen", "quick dinner", "family meal"]
+  },
+  {
+    "id": "prod_17",
+    "name": "AirPods Pro 2nd Gen with USB-C",
+    "category": "Electronics",
+    "price": 249.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=500&auto=format&fit=crop&q=80",
+    "description": "Active noise cancellation, adaptive transparency, personalized spatial audio, and 6 hours per charge. The everyday carry earbuds that enhance every moment of your day.",
+    "use_cases": ["commuting", "workout", "calls", "music", "travel", "daily carry"]
+  },
+  {
+    "id": "prod_18",
+    "name": "Dyson V15 Detect Cordless Vacuum",
+    "category": "Home & Kitchen",
+    "price": 749.99,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=500&auto=format&fit=crop&q=80",
+    "description": "Laser-equipped cordless vacuum that reveals invisible dust with scientific particle counting. 60-min runtime. Replaces a $300/year cleaning service.",
+    "use_cases": ["cleaning", "home", "pet hair", "deep cleaning", "apartment", "allergy"]
+  },
+  {
+    "id": "prod_19",
+    "name": "Xiaomi Mi Band 8 Fitness Tracker",
+    "category": "Fitness & Wearables",
+    "price": 34.99,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=500&auto=format&fit=crop&q=80",
+    "description": "Ultra-affordable AMOLED fitness band with heart rate, SpO2, sleep tracking, and 16-day battery life. 90% of the smartwatch features at 10% of the price.",
+    "use_cases": ["fitness", "budget", "sleep tracking", "step counter", "daily wear", "swimming"]
+  },
+  {
+    "id": "prod_20",
+    "name": "JBL Tune 510BT Wireless Headphones",
+    "category": "Electronics",
+    "price": 29.95,
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1583394838336-acd977736f90?w=500&auto=format&fit=crop&q=80",
+    "description": "Lightweight on-ear wireless headphones with JBL Pure Bass, 40-hour battery, and foldable design. Unbeatable quality for under $30 — perfect budget pick.",
+    "use_cases": ["budget", "music", "casual listening", "gym", "student", "everyday"]
+  },
+  {
+    "id": "prod_21",
+    "name": "LG C3 55\" 4K OLED Smart TV",
+    "category": "Electronics",
+    "price": 1296.99,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&auto=format&fit=crop&q=80",
+    "description": "Self-lit OLED pixels deliver perfect blacks, infinite contrast, and Dolby Vision + Atmos. 120Hz gaming. Replaces cinema trips at $0 per movie night for years.",
+    "use_cases": ["movies", "gaming", "home theater", "sports", "streaming", "living room"]
+  },
+  {
+    "id": "prod_22",
+    "name": "Roborock S8 Pro Ultra Robot Vacuum",
+    "category": "Home & Kitchen",
+    "price": 1599.99,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1589923188651-268a9765e432?w=500&auto=format&fit=crop&q=80",
+    "description": "Self-emptying, self-washing, self-refilling robot vacuum & mop with LiDAR navigation. Saves 4+ hours/week of cleaning — your time is worth more than $1,600.",
+    "use_cases": ["cleaning", "smart home", "pet owner", "automation", "hands-free", "large home"]
+  },
+  {
+    "id": "prod_23",
+    "name": "Anker Soundcore Life Q20 Headphones",
+    "category": "Electronics",
+    "price": 55.99,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1546435770-a3e426bf472b?w=500&auto=format&fit=crop&q=80",
+    "description": "Hybrid active noise cancelling headphones with 60-hour playtime and Hi-Res audio. 85% of the Sony XM5 experience at 15% of the cost — smart money choice.",
+    "use_cases": ["budget", "noise cancellation", "travel", "study", "work", "music"]
+  },
+  {
+    "id": "prod_24",
+    "name": "Canon EOS R50 Mirrorless Camera",
+    "category": "Cameras & Photography",
+    "price": 679.00,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=500&auto=format&fit=crop&q=80",
+    "description": "24.2MP APS-C sensor with 4K video, subject detection AF, and beginner-friendly interface. The perfect entry camera that grows with you — start creating content today.",
+    "use_cases": ["beginner photography", "vlogging", "travel photography", "content creation", "youtube"]
   }
 ]
