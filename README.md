@@ -34,6 +34,31 @@ Unlike traditional keyword-based search, this platform combines:
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Homepage — AI-Powered Natural Language Search
+> The main interface with the conversational search bar, sample query shortcuts, category filter pills, and the responsive product grid.
+
+<p align="center">
+  <img src="screenshots/homepage.jpg" alt="FinSight AI Homepage" width="100%" />
+</p>
+
+### ⚡ AI Intent Extraction & Smart Recommendations
+> After a natural language query, the AI extracts structured intent (category, budget, use case) and displays matched products with a personalized recommendation pitch.
+
+<p align="center">
+  <img src="screenshots/ai-search-results.jpg" alt="AI Search Results with Intent Parsing" width="100%" />
+</p>
+
+### 🛒 Shopping Cart Drawer
+> A slide-out cart panel with quantity controls, subtotal calculation, free shipping, and a checkout flow — all overlaid on the product grid.
+
+<p align="center">
+  <img src="screenshots/cart-drawer.jpg" alt="Shopping Cart Drawer" width="50%" />
+</p>
+
+---
+
 ## ✨ Key Features
 
 | Feature | Description |
