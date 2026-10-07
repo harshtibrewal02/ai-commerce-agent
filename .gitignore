@@ -1,7 +1,30 @@
-.env
-backend/.env
-venv/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.so
+venv/
+.env
+
+# ChromaDB local data
+chroma_db/
+
+# Node
 node_modules/
 .next/
+out/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+dist/
+build/
+*.egg-info/

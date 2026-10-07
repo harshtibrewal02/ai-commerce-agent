@@ -1,26 +1,49 @@
 @import "tailwindcss";
 
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  --background: #f7f5f0;
+  --foreground: #1c1917;
+  --card-bg: #ffffff;
+  --border-color: #e5e2da;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f5f0;
+  color: #1c1917;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  overflow-x: hidden;
+}
+
+/* Warm Creme Card Panels */
+.creme-card {
+  background: #ffffff;
+  border: 1px solid #e5e2da;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.04);
+}
+
+.creme-input {
+  background: #ffffff;
+  border: 1px solid #dcd7cc;
+  color: #1c1917;
+}
+
+.creme-input:focus {
+  border-color: #2563eb;
+  outline: none;
+}
+
+/* Custom scrollbar for light creme theme */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f7f5f0;
+}
+::-webkit-scrollbar-thumb {
+  background: #d4cfc4;
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #b8b1a3;
 }

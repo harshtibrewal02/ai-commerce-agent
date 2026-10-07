@@ -1,0 +1,162 @@
+[
+  {
+    "id": "prod_1",
+    "name": "Sony WH-1000XM5 Wireless Headphones",
+    "category": "Electronics",
+    "price": 398.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=80",
+    "description": "Industry-leading active noise-canceling over-ear bluetooth headphones with 30-hour battery life, crisp microphone calls, and audiophile sound.",
+    "use_cases": ["travel", "work", "focus", "music", "commuting", "noise cancelation", "study", "flight"]
+  },
+  {
+    "id": "prod_2",
+    "name": "Logitech MX Master 3S Ergonomic Mouse",
+    "category": "Electronics",
+    "price": 99.99,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1615663245857-ac93bb7c39e7?w=500&auto=format&fit=crop&q=80",
+    "description": "An iconic ergonomic wireless mouse with quiet clicks, electromagnetic MagSpeed scrolling, and 8K DPI track-on-glass sensor.",
+    "use_cases": ["office", "coding", "productivity", "ergonomics", "desk setup", "programming", "work"]
+  },
+  {
+    "id": "prod_3",
+    "name": "Apple MacBook Air 15-inch M3",
+    "category": "Computers",
+    "price": 1299.00,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500&auto=format&fit=crop&q=80",
+    "description": "Ultra-thin aluminum laptop powered by Apple M3 chip, Liquid Retina display, 18-hour battery, and silent fanless design.",
+    "use_cases": ["work", "college", "programming", "video editing", "travel", "student", "lightweight"]
+  },
+  {
+    "id": "prod_4",
+    "name": "Keychron K2 Pro Wireless Mechanical Keyboard",
+    "category": "Electronics",
+    "price": 89.00,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=500&auto=format&fit=crop&q=80",
+    "description": "75% compact wireless mechanical keyboard with hot-swappable tactile switches, RGB backlighting, and Mac/Windows layout toggle.",
+    "use_cases": ["typing", "coding", "gaming", "desk setup", "mechanical keyboard", "office"]
+  },
+  {
+    "id": "prod_5",
+    "name": "Dell UltraSharp 27 4K USB-C Hub Monitor",
+    "category": "Monitors",
+    "price": 479.50,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=500&auto=format&fit=crop&q=80",
+    "description": "27-inch 4K UHD IPS display with 90W USB-C power delivery hub, vibrant sRGB color accuracy, and low blue light filter.",
+    "use_cases": ["design", "office", "home office", "productivity", "dual monitor", "coding", "4k display"]
+  },
+  {
+    "id": "prod_6",
+    "name": "Anker 737 Power Bank (PowerCore 24K)",
+    "category": "Accessories",
+    "price": 109.99,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1609592424009-598912d09dfb?w=500&auto=format&fit=crop&q=80",
+    "description": "24,000mAh portable charger with 140W fast bi-directional charging output and real-time digital display status.",
+    "use_cases": ["travel", "emergency", "laptop charging", "flight", "outdoor", "phone charger", "battery"]
+  },
+  {
+    "id": "prod_7",
+    "name": "Kindle Paperwhite Signature Edition (32GB)",
+    "category": "Electronics",
+    "price": 189.99,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500&auto=format&fit=crop&q=80",
+    "description": "6.8-inch glare-free e-ink reader with wireless charging, auto-adjusting front light, waterproof body, and weeks of battery life.",
+    "use_cases": ["reading", "travel", "bedtime", "gifts", "books", "study"]
+  },
+  {
+    "id": "prod_8",
+    "name": "Nespresso VertuoPlus Espresso & Coffee Machine",
+    "category": "Home & Kitchen",
+    "price": 149.00,
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1517668808822-9ebb02f2a0e6?w=500&auto=format&fit=crop&q=80",
+    "description": "Single-serve automatic coffee machine utilizing Centrifusion technology for rich barista crema coffee and espresso shots.",
+    "use_cases": ["morning coffee", "kitchen", "office breakroom", "gifts", "caffeine", "latte"]
+  },
+  {
+    "id": "prod_9",
+    "name": "Apple Watch Series 9 GPS 45mm",
+    "category": "Fitness & Wearables",
+    "price": 399.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=500&auto=format&fit=crop&q=80",
+    "description": "Advanced smartwatch featuring S9 SiP chip, Double Tap gesture, ECG monitor, heart rate tracking, crash detection, and fitness metrics.",
+    "use_cases": ["fitness", "running", "health", "workout", "swimming", "smartwatch", "tracking"]
+  },
+  {
+    "id": "prod_10",
+    "name": "Sony Alpha 7 IV Full-Frame Mirrorless Camera",
+    "category": "Cameras & Photography",
+    "price": 2498.00,
+    "rating": 4.9,
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=500&auto=format&fit=crop&q=80",
+    "description": "33MP full-frame Exmor R CMOS sensor camera with 4K 60p video, real-time eye autofocus, and 10 fps continuous burst shooting.",
+    "use_cases": ["photography", "vlogging", "video recording", "professional camera", "content creation", "travel"]
+  },
+  {
+    "id": "prod_11",
+    "name": "Bose SoundLink Flex Bluetooth Speaker",
+    "category": "Electronics",
+    "price": 149.00,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=500&auto=format&fit=crop&q=80",
+    "description": "Rugged waterproof outdoor bluetooth speaker with PositionIQ technology, deep bass, and 12-hour rechargeable battery.",
+    "use_cases": ["outdoor", "party", "travel", "hiking", "beach", "bluetooth speaker", "music"]
+  },
+  {
+    "id": "prod_12",
+    "name": "Philips Sonicare ProtectiveClean 6100 Electric Toothbrush",
+    "category": "Personal Care",
+    "price": 109.96,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1559599101-f09722fb4948?w=500&auto=format&fit=crop&q=80",
+    "description": "Sonic electric toothbrush with pressure sensor, 3 cleaning modes, brush head replacement reminder, and travel case.",
+    "use_cases": ["dental hygiene", "daily routine", "bathroom", "travel", "health"]
+  },
+  {
+    "id": "prod_13",
+    "name": "BenQ ScreenBar Halo LED Monitor Light Bar",
+    "category": "Accessories",
+    "price": 179.00,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=500&auto=format&fit=crop&q=80",
+    "description": "Automatic dimming monitor lamp with wireless controller, front & back lighting to eliminate screen glare and reduce eye strain.",
+    "use_cases": ["desk setup", "reading", "coding", "night work", "eye protection", "office"]
+  },
+  {
+    "id": "prod_14",
+    "name": "Theragun Prime Electric Handheld Percussion Massage Gun",
+    "category": "Fitness & Wearables",
+    "price": 299.00,
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1518611012118-696072aa579a?w=500&auto=format&fit=crop&q=80",
+    "description": "Deep tissue muscle treatment massager with quiet force technology, ergonomic multi-grip, and Bluetooth app connectivity.",
+    "use_cases": ["recovery", "fitness", "muscle pain", "workout", "gym", "massage"]
+  },
+  {
+    "id": "prod_15",
+    "name": "Samsung Galaxy Tab S9 Ultra 14.6-inch",
+    "category": "Computers",
+    "price": 1199.99,
+    "rating": 4.8,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500&auto=format&fit=crop&q=80",
+    "description": "Massive 14.6-inch Dynamic AMOLED 2X Android tablet with S Pen included, Snapdragon 8 Gen 2, IP68 water resistance.",
+    "use_cases": ["drawing", "note taking", "digital art", "college", "entertainment", "movies"]
+  },
+  {
+    "id": "prod_16",
+    "name": "Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker",
+    "category": "Home & Kitchen",
+    "price": 129.95,
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?w=500&auto=format&fit=crop&q=80",
+    "description": "6-quart multi-use programmable pressure cooker, slow cooker, rice cooker, steamer, sauté pan, yogurt maker, and food warmer.",
+    "use_cases": ["cooking", "meal prep", "kitchen", "quick dinner", "family meal"]
+  }
+]
